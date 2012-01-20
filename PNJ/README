@@ -5,3 +5,5 @@ Spowned:Avec l'emplacement dans la map (dans la table `creature` location)
 *Les maître de classe sont spown avec leur ID originial, avec supression de quetes et modification de l'emplacement,
 aussi une modification au niveux de flag pour qu'ils s'attaque pas entre faction
 *Les PNJ Vendeur Glyphe sont spown avec emplacement. ID de 100001 a 100011 suvant leur classe.
+
+*G_S7_Armes_Spowned.sql ID 100050
